@@ -11,12 +11,23 @@
 * [test](#test)
 * [Questions](#Questions)
 
+<br>
+
+![Employee Table1](public\img\Employee-Unsort.png)
+
+<br>
+
+![Employee Table2](public\img\Employee-Sort.png)
+
+<br>
+
+![Employee Table3](public\img\Employee-Search.png)
 ## Deployed Application
 
-[Fitness-Tracker Heroku Deploy Link](https://quokka-marketplace-devdan13.herokuapp.com/)
+[Employee Directory react app](https://devdan13.github.io/employeeDirectory/)
 
 ## Description
-
+This app allows a user to sort through a table of employees by clicking the sort button and search for employees using the search bar.  This app was build using react with useEffect and useState hooks.
 
 
 ## Installation
@@ -26,7 +37,7 @@ There are many packages to install which can be viewed in the package.json.  ple
 npm i
 ```
 ## Usage 
-
+Upon loading the app feel free to use the search bar to search and sort to order the employee table.
 
 ## License
 
@@ -36,7 +47,7 @@ This project's code is allowed to be "set free" using [The Unlicense](https://un
 No collaborators to report for this application.  If you would like to collabrate with me I would e happy to hear from you.  email me at dan1397732@gmail.com
 
 ## Test
-
+The employees on the table is an array that be sorted on click of the sort button.  The array can be filtered by the search bar and can also be sorted.  Type into the search bar to filter the employees then sort.  The search result users will be sorted.  Each search query can be sorted as you type.
 
 ## Questions
 
