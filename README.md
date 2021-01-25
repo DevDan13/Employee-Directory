@@ -9,19 +9,19 @@
 * [License](#license)
 * [Contributing](#contributing)
 * [test](#test)
-* [Questions](#Questions)
+* [Questions](#questions)
 
 <br>
 
-![Employee Table1](public\img\Employee-Unsort.png)
+![Employee-Unsort](public\img\Employee-Unsort.png)
 
 <br>
 
-![Employee Table2](public\img\Employee-Sort.png)
+![Employee-Sort](public\img\Employee-Sort.png)
 
 <br>
 
-![Employee Table3](public\img\Employee-Search.png)
+![Employee-Search](public\img\Employee-Search.png)
 ## Deployed Application
 
 [Employee Directory react app](https://devdan13.github.io/employeeDirectory/)
